@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0008",
+  "agent_id": "AGENT_899",
+  "customer_id": "CUST_1351",
+  "language": "en",
+  "start_time": "2025-07-15T02:09:02",
+  "duration_seconds": 246,
+  "transcript": "**Agent:** Good afternoon! Thank you for calling Tech Savvy Solutions. This is Lisa speaking. How can I assist you today?\n\n**Customer:** Hi Lisa, I\u2019m having some issues with my billing. I noticed that I was charged incorrectly this month.\n\n**Agent:** I\u2019m sorry to hear that. Let\u2019s take a look at your account together. Can I have your email address associated with the account, please?\n\n**Customer:** Sure, it\u2019s john.doe@example.com. \n\n**Agent:** Thank you, John. I see your recent charge was for the Pro plan, but it looks like you were upgraded to the Premium plan last month. Is that correct?\n\n**Customer:** Yes, but I didn\u2019t authorize that upgrade! I was just looking for some more features, not a new plan.\n\n**Agent:** I completely understand your frustration. Let\u2019s resolve this. I can downgrade you back to the Pro plan right away. \n\n**Customer:** That would be great. But will I still have access to the features I needed?\n\n**Agent:** The Pro plan offers many features, including analytics and customer support. If you find that you need additional features later, I can provide a trial for the Premium plan again without any commitment.\n\n**Customer:** That sounds reasonable. I just don\u2019t want to be billed unexpectedly again.\n\n**Agent:** Absolutely! I\u2019ll make sure to confirm the downgrade, and I\u2019ll also set a reminder for you to check in after a month. \n\n**Customer:** Thanks for your help, Lisa. I really appreciate the quick resolution!\n\n**Agent:** You\u2019re welcome, John! I\u2019ll send you a confirmation email shortly. If you have any more questions or need assistance, feel free to reach out. Have a great day!\n\n**Customer:** You too! Thanks again!"
+}

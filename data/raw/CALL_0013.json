@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0013",
+  "agent_id": "AGENT_203",
+  "customer_id": "CUST_2858",
+  "language": "en",
+  "start_time": "2025-07-17T07:02:05",
+  "duration_seconds": 390,
+  "transcript": "**Agent:** Hi there! Thank you for calling TechSolutions. This is Sarah speaking. How can I assist you today?\n\n**Customer:** Hi, Sarah. I'm having a problem with my billing. I was charged twice this month for my Pro plan.\n\n**Agent:** I\u2019m sorry to hear about that! Let me take a look at your account. Can I have your account email address, please?\n\n**Customer:** Sure, it\u2019s john.doe@email.com. \n\n**Agent:** Thank you, John. Just a moment while I pull up your information\u2026 Okay, I see the duplicate charge here. It looks like a system error on our end. \n\n**Customer:** That\u2019s really frustrating. I wasn\u2019t expecting that!\n\n**Agent:** I completely understand. I can process a refund for the extra charge right now. Would you like me to proceed with that?\n\n**Customer:** Yes, please! I\u2019d appreciate that. \n\n**Agent:** Done! You should see the refund processed in about 3-5 business days. Is there anything else that's been bothering you?\n\n**Customer:** Well, actually, can you remind me of the differences between the Pro plan and the Premium plan? I might want to upgrade.\n\n**Agent:** Absolutely! The Premium plan offers additional storage and advanced analytics features. It also includes 24/7 priority support.\n\n**Customer:** That does sound appealing! What\u2019s the price difference?\n\n**Agent:** The Premium plan is $50 more per month. It could be a great investment if you're looking to scale your usage.\n\n**Customer:** Hmm, that\u2019s definitely something to consider. I\u2019ll think about it. Thanks for your help, Sarah!\n\n**Agent:** You\u2019re welcome, John! If you have any more questions, feel free to reach out. Have a great day!"
+}

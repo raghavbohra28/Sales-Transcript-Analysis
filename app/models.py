@@ -1,5 +1,6 @@
-from sqlalchemy import Column, Integer, String, DateTime, Text
 from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy import Column, Integer, String, Text, DateTime, Index, func
+from sqlalchemy.dialects.postgresql import TSVECTOR
 
 Base = declarative_base()
 
@@ -14,3 +15,9 @@ class CallTranscript(Base):
     start_time = Column(DateTime, index=True)
     duration_seconds = Column(Integer)
     transcript = Column(Text)
+
+    transcript_tsv = Column(TSVECTOR)
+    __table_args__ = (
+        # Index on tsvector column using GIN
+        Index('ix_transcripts_transcript_tsv', 'transcript_tsv', postgresql_using='gin'),
+    )

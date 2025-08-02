@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0018",
+  "agent_id": "AGENT_554",
+  "customer_id": "CUST_2041",
+  "language": "en",
+  "start_time": "2025-07-04T02:52:44",
+  "duration_seconds": 478,
+  "transcript": "**Agent:** Thank you for calling TechSolutions Support! This is Alex speaking. How can I assist you today?\n\n**Customer:** Hi Alex, I\u2019m having trouble accessing my account. I keep getting an error message when I try to log in.\n\n**Agent:** I\u2019m sorry to hear that! Can you tell me what the error message says? \n\n**Customer:** It says my password is incorrect, but I\u2019m sure I\u2019m entering it right.\n\n**Agent:** Let\u2019s try resetting your password to see if that resolves the issue. Can I have your email address associated with the account, please?\n\n**Customer:** Sure, it\u2019s jane.doe@email.com.\n\n**Agent:** Great, I\u2019ve sent a password reset link to that email. Please check your inbox and follow the instructions.\n\n**Customer:** Okay, I see it! But while I\u2019m at it, I also wanted to ask about the Pro plan features. I\u2019m considering upgrading.\n\n**Agent:** The Pro plan includes advanced analytics and priority support. Would those features be beneficial for your business?\n\n**Customer:** Definitely! But I\u2019d like to know the difference in pricing first.\n\n**Agent:** The Pro plan is $29.99 per month, compared to your current plan at $19.99. Would you like to start a free trial for the first month?\n\n**Customer:** That sounds good! But can I still access my current features while on the trial?\n\n**Agent:** Yes, you\u2019ll retain access to your current features, and you\u2019ll be able to explore the Pro features as well. \n\n**Customer:** Awesome! Thanks for your help, Alex. I\u2019ll check my email now.\n\n**Agent:** You\u2019re welcome! Let me know if you need any further assistance. Have a great day, Jane!\n\n**Customer:** You too, thanks!"
+}

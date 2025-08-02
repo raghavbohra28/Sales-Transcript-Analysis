@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0012",
+  "agent_id": "AGENT_569",
+  "customer_id": "CUST_3322",
+  "language": "en",
+  "start_time": "2025-07-11T09:18:17",
+  "duration_seconds": 136,
+  "transcript": "**Agent:** Thank you for calling ConnectPro Solutions, this is Emily. How can I assist you today?\n\n**Customer:** Hi Emily, I'm having trouble accessing my account. I can't seem to remember my password.\n\n**Agent:** I can help with that! Have you tried using the \u201cForgot Password\u201d option on the login portal?\n\n**Customer:** Yes, but I didn\u2019t receive the reset email. I checked my spam folder too.\n\n**Agent:** I\u2019m sorry to hear that. Let\u2019s verify your email address on file. Could you please provide it for me?\n\n**Customer:** Sure, it\u2019s john.doe@example.com.\n\n**Agent:** Thank you, John. I see that the email address is correct. I\u2019ll resend the reset link. Please give it a moment.\n\n**Customer:** Okay, I\u2019ll wait. But I really need access quickly since I have a meeting soon.\n\n**Agent:** I understand the urgency. I just sent the email; could you check your inbox now?\n\n**Customer:** I got it! Let me reset my password\u2026 Okay, I\u2019m back in! Thanks a lot!\n\n**Agent:** You\u2019re welcome! I\u2019m glad it worked. While I have you, I\u2019d like to mention our new Pro plan that includes advanced analytics features.\n\n**Customer:** I appreciate that, but I\u2019m more focused on fixing this issue right now. \n\n**Agent:** Absolutely, your account access is the priority! If you have any questions about the Pro plan later, feel free to reach out.\n\n**Customer:** Will do! Thanks for your help today, I really appreciate it.\n\n**Agent:** My pleasure, John! Have a great day and good luck with your meeting!"
+}

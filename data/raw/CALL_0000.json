@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0000",
+  "agent_id": "AGENT_828",
+  "customer_id": "CUST_6481",
+  "language": "en",
+  "start_time": "2025-07-15T18:17:50",
+  "duration_seconds": 364,
+  "transcript": "**Agent:** Hi, thank you for calling TechGenius Solutions! My name is Lisa. How can I help you today?\n\n**Customer:** Hi, Lisa. I\u2019m having an issue with my account. I can\u2019t seem to access the login portal.\n\n**Agent:** I\u2019m sorry to hear that you\u2019re having trouble accessing your account. Can you please provide me with the email address associated with your account?\n\n**Customer:** Sure, it\u2019s john.smith@email.com. I tried resetting my password, but I didn\u2019t receive the reset email.\n\n**Agent:** Let me check that for you. One moment, please. *pause* It looks like there\u2019s a typo in your email address in our system. Can you confirm if it's spelled correctly?\n\n**Customer:** That\u2019s odd. I\u2019m positive I entered it correctly. How can that be?\n\n**Agent:** It sometimes happens if there\u2019s a temporary glitch. I can manually update your email. Would you like that?\n\n**Customer:** Yes, please. I really need to get back into my account!\n\n**Agent:** Absolutely! I\u2019ll fix that for you right now. What email should I use?\n\n**Customer:** Use john.smith@email.com. \n\n**Agent:** Got it! I've updated it and sent a password reset link to that address. Can you check your inbox?\n\n**Customer:** I see the email now! Thanks for your help, Lisa!\n\n**Agent:** You\u2019re welcome! I'm glad we resolved that. Is there anything else you\u2019d like assistance with today?\n\n**Customer:** No, that\u2019s it for now. I appreciate your prompt help!\n\n**Agent:** My pleasure! If you need anything else, don\u2019t hesitate to call us. Have a great day, John!"
+}

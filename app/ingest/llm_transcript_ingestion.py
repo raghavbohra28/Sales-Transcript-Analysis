@@ -8,13 +8,15 @@ import openai
 from openai import AzureOpenAI
 from openai import AsyncAzureOpenAI
 from dotenv import load_dotenv
+from app.database import engine, SessionLocal
+from sqlalchemy.sql import text
 
 # Load API Key from .env
 load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 fake = Faker()
-NUM_TRANSCRIPTS = 20  # keep low for now to avoid high token usage
+NUM_TRANSCRIPTS = 2  # keep low for now to avoid high token usage
 OUTPUT_FOLDER = "data/raw"
 
 endpoint = os.getenv("AZURE_OPENAI_ENDPOINT")
@@ -93,8 +95,36 @@ async def main():
             call = generate_call_metadata(i)
             call["transcript"] = transcript
             await save_transcript(call)
+            await save_to_postgres(call)
             print(f"Saved {call['call_id']}")
         await asyncio.sleep(1.5)  # Respect rate limits
 
-if __name__ == "__main__":
-    asyncio.run(main())
+
+async def save_to_postgres(call_data):
+    session = SessionLocal()
+    try:
+        insert_stmt = text("""
+            INSERT INTO call_transcripts (
+                call_id, agent_id, customer_id, language, start_time, duration_seconds, transcript
+            ) VALUES (
+                :call_id, :agent_id, :customer_id, :language, :start_time, :duration_seconds, :transcript
+            )
+        """)
+        session.execute(insert_stmt, {
+            "call_id": call_data["call_id"],
+            "agent_id": call_data["agent_id"],
+            "customer_id": call_data["customer_id"],
+            "language": call_data["language"],
+            "start_time": call_data["start_time"],
+            "duration_seconds": call_data["duration_seconds"],
+            "transcript": call_data["transcript"]
+        })
+        session.commit()
+    except Exception as e:
+        print("Error saving to postgres:", e)
+        session.rollback()
+    finally:
+        session.close()
+
+# if __name__ == "__main__":
+#     asyncio.run(main())
