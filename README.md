@@ -29,7 +29,7 @@ A FastAPI-based microservice that simulates, ingests, analyzes, and serves insig
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/your-username/sales-call-analytics.git
+git clone https://github.com/raghavbohra28/Sales-Transcript-Analysis.git
 cd sales-call-analytics
 ```
 
@@ -52,6 +52,16 @@ alembic upgrade head
 5. **Start the FastAPI server**:
 ```bash
 uvicorn main:app --reload
+```
+
+---
+**env setup**:
+```bash
+AZURE_OPENAI_KEY= your_key
+AZURE_OPENAI_ENDPOINT= your_endpoint
+AZURE_OPENAI_DEPLOYMENT= deployemnt_name
+AZURE_OPENAI_MODELNAME= model_name
+AZURE_OPENAI_API_VERSION= api_version
 ```
 
 ---
@@ -136,5 +146,4 @@ app/
 - Use `tsvector`-based GIN indexing for fast search on transcript content.
 - Pre-computed insights ensure the `/recommendations` and `/analytics/agents` endpoints are fast.
 - The `embedding` column is stored as stringified list — adapt as needed if using pgvector.
-
 
