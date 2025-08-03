@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0105",
+  "agent_id": "AGENT_698",
+  "customer_id": "CUST_2372",
+  "language": "en",
+  "start_time": "2025-08-01T16:56:46",
+  "duration_seconds": 60,
+  "transcript": "**Agent:** Thank you for calling Tech Solutions! This is Emily. How can I assist you today?\n\n**Customer:** Hi Emily, I\u2019m having trouble accessing my account. I keep getting a password error.\n\n**Agent:** I\u2019m sorry to hear that. Let\u2019s get this sorted out. Can you please confirm the email address associated with your account?\n\n**Customer:** Sure, it\u2019s john.smith@email.com.\n\n**Agent:** Thank you, John. I\u2019ll send you a password reset link right now. It should arrive shortly in your inbox. \n\n**Customer:** I appreciate that, but I also wanted to ask about the billing cycle. I think I was charged twice this month.\n\n**Agent:** I can help with that too. Let me pull up your billing details. Can you hold on for a moment, please?\n\n**Customer:** Yes, of course.\n\n**Agent:** Thanks for your patience, John. I see you were billed for both the Pro plan and an add-on feature. Did you intend to have both?\n\n**Customer:** No, I only wanted the Pro plan. I didn\u2019t realize the add-on would come with it!\n\n**Agent:** I understand how that can be confusing. I can go ahead and refund the charge for the add-on if you confirm you don\u2019t need it.\n\n**Customer:** Yes, please do that. I\u2019d like to keep things simple for now.\n\n**Agent:** Absolutely, I\u2019ll process that refund right away. You should see it in your account within 3-5 business days.\n\n**Customer:** Thank you! Also, when will I receive the password reset link?\n\n**Agent:** It should arrive shortly, but if you don\u2019t see it in your inbox, please check your spam folder as well.\n\n**Customer:** Got it. I really appreciate your help today, Emily!\n\n**Agent:** You\u2019re welcome, John! If you have any more questions, feel free to reach out. Have a great day!"
+}

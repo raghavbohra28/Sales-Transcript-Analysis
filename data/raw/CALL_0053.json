@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0053",
+  "agent_id": "AGENT_398",
+  "customer_id": "CUST_3647",
+  "language": "en",
+  "start_time": "2025-07-21T07:12:12",
+  "duration_seconds": 204,
+  "transcript": "**Agent:** Good afternoon! Thank you for calling TechSavvy Solutions. This is Jamie speaking. How can I assist you today?\n\n**Customer:** Hi Jamie, I'm having trouble accessing my account. I tried resetting my password, but the email isn't coming through.\n\n**Agent:** I\u2019m sorry to hear you're having trouble. Can I please have your registered email address to check the status of the password reset?\n\n**Customer:** Sure, it\u2019s john.doe@email.com.\n\n**Agent:** Thank you, John. I see there was a temporary issue with our email server earlier. Let me manually trigger the password reset for you.\n\n**Customer:** That would be great. It\u2019s really frustrating not being able to get in.\n\n**Agent:** I completely understand, and I appreciate your patience. I\u2019ve just sent the reset email. Can you check your inbox and let me know if you see it?\n\n**Customer:** Okay, let me take a look... Okay, I received it! I\u2019m resetting my password now.\n\n**Agent:** Excellent! Once you\u2019re back in, you might find our new \"Pro Plan\" has some features that could enhance your experience. Would you be interested in hearing about that?\n\n**Customer:** Actually, I'm not sure if I need anything extra right now. I'm just trying to get my login sorted out.\n\n**Agent:** That makes total sense. The first priority is to get you back in your account. If you have any questions about the plans later, feel free to reach out.\n\n**Customer:** Sounds good. I think I'm all set now. Thanks for your help!\n\n**Agent:** You\u2019re very welcome, John! If you need further assistance or have any other questions, don\u2019t hesitate to call us back. Have a great day!\n\n**Customer:** You too, Jamie. Bye!"
+}

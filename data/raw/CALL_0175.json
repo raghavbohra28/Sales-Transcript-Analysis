@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0175",
+  "agent_id": "AGENT_423",
+  "customer_id": "CUST_3472",
+  "language": "en",
+  "start_time": "2025-07-17T12:44:16",
+  "duration_seconds": 592,
+  "transcript": "**Agent:** Thank you for calling SecureData Solutions. This is Ella speaking. How can I assist you today?\n\n**Customer:** Hi Ella, I\u2019m having trouble logging into my account. I keep getting an error message.\n\n**Agent:** I\u2019m sorry to hear that you\u2019re experiencing issues. Can you tell me what the error message says?\n\n**Customer:** It says \u201cInvalid password.\u201d I\u2019ve tried resetting it twice, but I still can\u2019t get in.\n\n**Agent:** Let\u2019s get that sorted out. I can help you with a password reset. Can you confirm the email associated with your account?\n\n**Customer:** Sure, it\u2019s john.doe@example.com.\n\n**Agent:** Thank you, John. I\u2019ve sent you a password reset link. Please check your inbox and let me know if you receive it.\n\n**Customer:** Okay, I see the email now! Let me reset it\u2026 Alright, I\u2019m in! \n\n**Agent:** That\u2019s great to hear! Is there anything else you need help with, perhaps regarding our Pro plan features?\n\n**Customer:** Well, actually, I was considering upgrading. What are the main benefits of the Pro plan?\n\n**Agent:** The Pro plan offers advanced analytics, unlimited user access, and priority customer support. It\u2019s perfect if you\u2019re looking to scale up your operations.\n\n**Customer:** That sounds interesting. What\u2019s the pricing difference?\n\n**Agent:** The Pro plan is $49 per month compared to the Basic plan at $29. You'd gain a lot more capabilities for your team. \n\n**Customer:** Thanks for the info, Ella. I\u2019ll think about it and maybe upgrade soon.\n\n**Agent:** You\u2019re welcome, John! Feel free to reach out if you have more questions. Have a wonderful day!"
+}

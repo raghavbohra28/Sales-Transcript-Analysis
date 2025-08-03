@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0197",
+  "agent_id": "AGENT_800",
+  "customer_id": "CUST_9252",
+  "language": "en",
+  "start_time": "2025-07-17T07:30:33",
+  "duration_seconds": 547,
+  "transcript": "Agent: Good morning! Thank you for calling Tech Solutions, this is Sarah. How can I assist you today?\n\nCustomer: Hi Sarah, I\u2019m having trouble logging into my account. It keeps saying my password is incorrect.\n\nAgent: I\u2019m sorry to hear that! Let\u2019s get that sorted out. Have you tried using the \"Forgot Password\" option on the login portal?\n\nCustomer: Yes, I did, but I never received the reset email. I checked both my inbox and junk folder.\n\nAgent: I understand how frustrating that can be. Could you please confirm the email address associated with your account?\n\nCustomer: It\u2019s john.doe@email.com.\n\nAgent: Thank you, John. I\u2019ll check our system for any issues with email delivery. One moment please.\n\nCustomer: Sure, I hope it\u2019s not a big problem.\n\nAgent: It looks like there was a temporary glitch with our email server, but I\u2019ve manually triggered the reset email. You should receive it shortly!\n\nCustomer: Okay, thanks! What if I still can\u2019t log in after that?\n\nAgent: If you're still having issues, I can help you reset your password directly over the phone. Also, have you considered upgrading to our Pro plan? It offers enhanced security features that could help prevent future issues.\n\nCustomer: I appreciate the suggestion, but I\u2019m not looking to upgrade right now. I just need access to my account!\n\nAgent: Totally understandable! Let\u2019s focus on getting you back in first. Once you\u2019ve reset your password, let me know if you still need help.\n\nCustomer: Will do! Thanks for your help, Sarah. \n\nAgent: You\u2019re welcome, John! I\u2019m here to assist. Feel free to call back if you need anything else. Have a great day!\n\nCustomer: You too! Bye!"
+}

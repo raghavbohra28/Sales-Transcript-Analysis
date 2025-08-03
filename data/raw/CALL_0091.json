@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0091",
+  "agent_id": "AGENT_588",
+  "customer_id": "CUST_1646",
+  "language": "en",
+  "start_time": "2025-07-05T18:11:17",
+  "duration_seconds": 462,
+  "transcript": "**Agent:** Thank you for calling TechEase Solutions, this is Sarah speaking. How can I assist you today?\n\n**Customer:** Hi Sarah, I\u2019m actually having some issues with my billing. I was charged twice this month for my Pro plan.\n\n**Agent:** I'm sorry to hear that! Let me pull up your account. Can I have your email address to locate it quickly?\n\n**Customer:** Sure, it's john.doe@email.com.\n\n**Agent:** Thank you, John. I see your account here. It looks like there was a billing error that caused the double charge. I apologize for the inconvenience.\n\n**Customer:** That\u2019s frustrating! I didn\u2019t expect this kind of mix-up.\n\n**Agent:** I completely understand, and I appreciate your patience. We will issue a refund for the extra charge right away. It should reflect in your account within 3-5 business days.\n\n**Customer:** Okay, that\u2019s good to know. But I also wanted to ask about the new features in the upcoming Plus plan. Are they worth upgrading?\n\n**Agent:** The Plus plan includes enhanced analytics tools and priority support, which many of our clients find invaluable. Would you like me to send you some information on how those features could benefit your business?\n\n**Customer:** Yes, please do that. I want to make sure it\u2019ll help before I decide.\n\n**Agent:** Of course! I\u2019ll send that information to your email shortly. If you have any further questions, feel free to reply directly.\n\n**Customer:** Great, thanks! I\u2019ll keep an eye out for that.\n\n**Agent:** You're welcome, John! If there's anything else you need, don\u2019t hesitate to reach out. Have a wonderful day!\n\n**Customer:** Thanks, Sarah. You too!"
+}

@@ -16,7 +16,7 @@ load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 fake = Faker()
-NUM_TRANSCRIPTS = 2  # keep low for now to avoid high token usage
+NUM_TRANSCRIPTS = 200 
 OUTPUT_FOLDER = "data/raw"
 
 endpoint = os.getenv("AZURE_OPENAI_ENDPOINT")

@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0146",
+  "agent_id": "AGENT_415",
+  "customer_id": "CUST_5814",
+  "language": "en",
+  "start_time": "2025-07-10T00:54:56",
+  "duration_seconds": 471,
+  "transcript": "**Agent:** Thank you for calling Tech Solutions, this is Sarah speaking. How can I assist you today?\n\n**Customer:** Hi Sarah, I\u2019m having some trouble with my billing. I noticed I was charged twice last month.\n\n**Agent:** I\u2019m sorry to hear that, I can help you with this. Can you provide me with your account email address so I can look into the charges?\n\n**Customer:** Sure, it\u2019s john.doe@example.com. \n\n**Agent:** Thank you, John. Just a moment while I check your billing details. \n\n**Customer:** No problem. I\u2019m actually on the Basic plan, but I thought it was supposed to be a flat rate.\n\n**Agent:** I see where the confusion might be. There\u2019s a billing cycle adjustment that occurred, which may have triggered an extra charge. I\u2019ll get to the bottom of this right now.\n\n**Customer:** That would be great, because right now it's really frustrating.\n\n**Agent:** I understand. It looks like you were charged for an additional service that was added during your free trial period. I can assist you with reversing that charge.\n\n**Customer:** That\u2019s a relief. Thank you! Can you also tell me if there are any upgrades available? I might be interested in more features.\n\n**Agent:** Absolutely! Our Pro plan offers enhanced analytics and priority support. Would you like me to send you a comparison of the features?\n\n**Customer:** Yes, please. That sounds good.\n\n**Agent:** I\u2019ll also include a promo code for the first month. You'll receive that email shortly, John.\n\n**Customer:** Thank you so much, Sarah. You\u2019ve been really helpful!\n\n**Agent:** My pleasure, John! If you have any more questions or need further assistance, just give us a call. Have a great day!\n\n**Customer:** You too! Bye!"
+}

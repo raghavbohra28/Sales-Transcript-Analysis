@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0063",
+  "agent_id": "AGENT_333",
+  "customer_id": "CUST_8950",
+  "language": "en",
+  "start_time": "2025-07-23T11:07:01",
+  "duration_seconds": 232,
+  "transcript": "**Agent:** Hi! Thank you for calling TechSolutions Support. This is Jenna speaking. How can I assist you today?\n\n**Customer:** Hi Jenna, I\u2019m having some issues with my Pro plan subscription. I was charged twice this month.\n\n**Agent:** I\u2019m sorry to hear that. Let\u2019s get this resolved for you. Can you please confirm the email address associated with your account?\n\n**Customer:** Sure, it\u2019s john.doe@example.com.\n\n**Agent:** Thank you, John. I see your account here. It looks like there was a billing error where the system processed your payment twice. I can initiate a refund for the additional charge right now.\n\n**Customer:** That would be great! I didn\u2019t expect this at all. \n\n**Agent:** I understand how frustrating that can be. The refund should reflect in your account within 3-5 business days. Is there anything else I can assist you with?\n\n**Customer:** Also, I\u2019m having trouble logging into my dashboard. It keeps saying my password is incorrect.\n\n**Agent:** Let\u2019s troubleshoot that together. Would you like me to send a password reset link to your email?\n\n**Customer:** Yes, please. That would help a lot.\n\n**Agent:** Alright, I\u2019ve just sent it to your email. Please check your inbox and let me know if it arrives.\n\n**Customer:** Okay, I see it now! Thank you for your help.\n\n**Agent:** You\u2019re welcome, John! If you could reset your password and still encounter issues, feel free to reach out. \n\n**Customer:** I will, thanks again. I appreciate your support!\n\n**Agent:** It\u2019s my pleasure! Have a great day, and take care!"
+}

@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0189",
+  "agent_id": "AGENT_413",
+  "customer_id": "CUST_6439",
+  "language": "en",
+  "start_time": "2025-07-08T21:10:29",
+  "duration_seconds": 325,
+  "transcript": "**Agent:** Thank you for calling Tech Solutions Support! This is Sarah speaking. How can I assist you today?\n\n**Customer:** Hi Sarah, I\u2019m having some trouble accessing my account. I keep getting a password error.\n\n**Agent:** I\u2019m sorry to hear that! Let\u2019s get this sorted out. Can I have your email address associated with the account, please?\n\n**Customer:** Sure, it\u2019s john.doe@example.com.\n\n**Agent:** Thank you, John. I\u2019ll send you a password reset link right now. It should arrive shortly.\n\n**Customer:** That would be great. Also, I noticed a charge for the \u201cPro plan\u201d on my last invoice, but I thought I signed up for the \u201cBasic plan.\u201d\n\n**Agent:** I can certainly help with that. Let me pull up your account and see what happened with the billing.\n\n**Customer:** Thanks. I\u2019m a bit frustrated because I\u2019m not sure why that change occurred.\n\n**Agent:** I totally understand; billing issues can be confusing. It looks like there was an update on our side that transitioned your account. If you'd prefer the \u201cBasic plan,\u201d I can revert it for you.\n\n**Customer:** Yes, please do that. I don\u2019t need the extra features right now.\n\n**Agent:** Absolutely! I\u2019ll take care of that and confirm the change. You\u2019ll notice a refund for the difference in your account within 3-5 business days.\n\n**Customer:** That\u2019s a relief! Thank you for addressing my concerns.\n\n**Agent:** No problem at all, John. Is there anything else I can help you with today?\n\n**Customer:** No, that covers everything. I appreciate your help!\n\n**Agent:** You\u2019re welcome! Thank you for calling Tech Solutions, and have a great day!"
+}

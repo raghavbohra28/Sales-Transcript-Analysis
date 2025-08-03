@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0109",
+  "agent_id": "AGENT_290",
+  "customer_id": "CUST_8420",
+  "language": "en",
+  "start_time": "2025-07-18T02:27:22",
+  "duration_seconds": 104,
+  "transcript": "**Agent:** Good morning! Thank you for calling TechSolutions Support. My name is Lisa. How can I assist you today?\n\n**Customer:** Hi Lisa, I\u2019m having some issues with my billing. I was charged twice this month for the Pro plan.\n\n**Agent:** I\u2019m sorry to hear that! Let me take a look at your account. Could you please provide me with your email address associated with the account?\n\n**Customer:** Sure, it\u2019s john.doe@example.com. I just don\u2019t understand why I\u2019m being charged twice. \n\n**Agent:** Thank you, John. I\u2019ve found your account. It appears there was a system error that caused a duplicate charge for this billing cycle. \n\n**Customer:** That\u2019s frustrating! Can I get a refund for the extra charge?\n\n**Agent:** Absolutely! I can initiate the refund for you right now. It should reflect in your account within 3 to 5 business days.\n\n**Customer:** That\u2019s good to hear. But is there any way to prevent this from happening again?\n\n**Agent:** We take these issues seriously, and I can flag your account to ensure you\u2019re closely monitored during future billing cycles. \n\n**Customer:** Great, I appreciate that. Also, are there any new features coming with the Pro plan? \n\n**Agent:** Yes! We\u2019re rolling out a new analytics dashboard next month that offers deeper insights into user engagement. Would you be interested in a demo once it\u2019s live?\n\n**Customer:** Absolutely! I\u2019d love to see that. \n\n**Agent:** Perfect! I\u2019ll make sure to follow up with you as soon as it's available. Is there anything else I can help you with today?\n\n**Customer:** No, that\u2019s everything. Thanks for your help, Lisa!\n\n**Agent:** You\u2019re welcome, John! Thank you for your patience. Have a great day!"
+}

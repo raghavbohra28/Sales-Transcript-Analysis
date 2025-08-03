@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0046",
+  "agent_id": "AGENT_236",
+  "customer_id": "CUST_1285",
+  "language": "en",
+  "start_time": "2025-07-14T16:30:20",
+  "duration_seconds": 343,
+  "transcript": "**Agent:** Thank you for calling Tech Solutions, this is Sarah speaking. How can I assist you today?\n\n**Customer:** Hi Sarah, I\u2019m having trouble accessing my account. I think I need to reset my password.\n\n**Agent:** I\u2019d be happy to help with that. Can you please confirm the email address associated with your account?\n\n**Customer:** Sure, it\u2019s john.doe@email.com. \n\n**Agent:** Great, thanks, John. I\u2019ve sent you a password reset link to that email. Could you check your inbox?\n\n**Customer:** It\u2019s not there. I\u2019ve checked my spam folder too. \n\n**Agent:** I\u2019m sorry to hear that. Let me verify the email for you. Can you give me a moment?\n\n**Customer:** Sure, take your time.\n\n**Agent:** Thank you for your patience, John. I\u2019ve confirmed the email is correct, and I suggest trying to resend the reset link. Would you like me to do that now?\n\n**Customer:** Yes, please do. I need to get into my account for an urgent task.\n\n**Agent:** Resending the link now. You should receive it shortly. Also, can I suggest our Pro plan? It offers enhanced features, like priority support.\n\n**Customer:** Hmm, I\u2019m not sure. What does the Pro plan include?\n\n**Agent:** The Pro plan includes advanced analytics, unlimited reporting, and a dedicated account manager. It\u2019s ideal for businesses needing more insights.\n\n**Customer:** That does sound interesting. Let me check out my account first, and I\u2019ll get back to you if I\u2019m interested.  \n\n**Agent:** Absolutely, John! I\u2019m here whenever you\u2019re ready. Is there anything else I can help you with in the meantime?\n\n**Customer:** No, that\u2019s it for now. Thanks for your help!\n\n**Agent:** You\u2019re welcome! Have a great day, and take care!"
+}

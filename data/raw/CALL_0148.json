@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0148",
+  "agent_id": "AGENT_830",
+  "customer_id": "CUST_5096",
+  "language": "en",
+  "start_time": "2025-07-31T22:46:55",
+  "duration_seconds": 372,
+  "transcript": "**Customer:** Hi, I\u2019ve been having issues with my billing. I was charged twice this month for my Pro plan.\n\n**Agent:** I\u2019m sorry to hear that, and I can definitely help you with this. Can you please provide me with your account email so I can look into your billing history?\n\n**Customer:** Sure, it\u2019s john.smith@example.com. I noticed the charges when I checked my bank statement.\n\n**Agent:** Thank you, John. Give me a moment to pull up your account... Okay, I see the double charge. It seems there was an error during our billing cycle. \n\n**Customer:** That's frustrating. I rely on your service for my business, and it\u2019s concerning to see these kinds of mistakes.\n\n**Agent:** I completely understand, and I apologize for the inconvenience. I can initiate a refund for the extra charge right away. Would you like me to do that?\n\n**Customer:** Yes, please. And how long will it take for the refund to process?\n\n**Agent:** Typically, it takes 3-5 business days to reflect in your account. I\u2019ll ensure it\u2019s prioritized on our end. \n\n**Customer:** Okay, thanks for that. Is there any way I can get alerts if there are any issues with billing in the future?\n\n**Agent:** We can set up billing notifications through your account settings. Would you like me to send you a walkthrough on how to enable those?\n\n**Customer:** That would be great, thank you. I just want to avoid surprises moving forward.\n\n**Agent:** Absolutely, I\u2019ll send over those instructions to your email shortly. Is there anything else I can assist you with today?\n\n**Customer:** No, that covers everything. Thank you for your help!\n\n**Agent:** You\u2019re very welcome, John! I appreciate your patience. Have a great day!"
+}

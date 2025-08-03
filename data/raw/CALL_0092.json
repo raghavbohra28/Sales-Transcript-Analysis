@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0092",
+  "agent_id": "AGENT_385",
+  "customer_id": "CUST_7118",
+  "language": "en",
+  "start_time": "2025-07-29T00:47:56",
+  "duration_seconds": 441,
+  "transcript": "**Customer:** Hi, I\u2019m having trouble logging into my account. I keep getting an error message.\n\n**Agent:** I\u2019m sorry to hear that! Let\u2019s get you logged in. Can you tell me what error message you\u2019re receiving?\n\n**Customer:** It says my password is incorrect, but I\u2019m sure it\u2019s right. I even wrote it down!\n\n**Agent:** That can be frustrating. Would you like me to help you reset your password?\n\n**Customer:** Yes, please. I really need access for a project I\u2019m working on.\n\n**Agent:** Of course! I can send a password reset link to the email associated with your account. Can you confirm what that email address is?\n\n**Customer:** It\u2019s john.doe@email.com.\n\n**Agent:** Great, I\u2019ve sent the link. Please check your inbox and let me know if you received it.\n\n**Customer:** I see it! Let me try to reset it... Okay, I'm back. I\u2019m in!\n\n**Agent:** Perfect! I\u2019m glad that worked. Is there anything else I can help you with today, like questions about our Pro plan features?\n\n**Customer:** Actually, yes! I\u2019m curious about what additional features I\u2019d get with the Pro plan compared to the Basic plan.\n\n**Agent:** The Pro plan provides advanced analytics, priority support, and a convenient team collaboration feature. It\u2019s really great for handling larger projects.\n\n**Customer:** That sounds interesting, but does it cost a lot more?\n\n**Agent:** It\u2019s $49 per month compared to $19 for Basic. However, upgrading now gives you a 20% discount for the first three months.\n\n**Customer:** Hmm, let me think about it. I\u2019m still not sure.\n\n**Agent:** Absolutely, take your time. I\u2019m here to help if you have more questions. Thanks for calling today!"
+}

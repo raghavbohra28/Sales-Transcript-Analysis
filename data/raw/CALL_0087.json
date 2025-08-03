@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0087",
+  "agent_id": "AGENT_587",
+  "customer_id": "CUST_5363",
+  "language": "en",
+  "start_time": "2025-07-14T04:46:17",
+  "duration_seconds": 471,
+  "transcript": "**Agent:** Thank you for calling TechSavvy Solutions, this is Mike speaking. How can I assist you today?\n\n**Customer:** Hi Mike, I'm having trouble accessing my account. I keep getting a password error message.\n\n**Agent:** I\u2019m sorry to hear that! Let\u2019s get this sorted out. Can you confirm the email address associated with your account?\n\n**Customer:** Sure, it\u2019s john.smith@email.com. I've tried resetting the password, but nothing seems to work.\n\n**Agent:** Thanks, John. I see your account here. Let\u2019s try sending a reset link again. One moment, please.\n\n**Customer:** Okay, but I\u2019m getting worried. I have a crucial project due, and I can't afford any more delays.\n\n**Agent:** I completely understand the urgency. I\u2019ve just sent the reset email. Please check your inbox and let me know if you receive it.\n\n**Customer:** Nothing's coming through. Can you check if there's an issue on your end?\n\n**Agent:** Let me take a quick look... Ah, it seems there was a minor issue with our email server. I can resend it, or if you'd prefer, we can updated your password over the phone.\n\n**Customer:** Yes, please do that. I need access ASAP.\n\n**Agent:** Absolutely, I\u2019ll guide you through the steps. What would you like your new password to be?\n\n**Customer:** Let's go with \u201cProject2023.\u201d \n\n**Agent:** Great choice! I\u2019ve updated your password to \"Project2023.\" You should now be able to access your account.\n\n**Customer:** Finally! Thank you so much for your help, Mike. I appreciate it.\n\n**Agent:** You\u2019re very welcome, John! If you have any more questions, feel free to reach out. Have a great day and good luck with your project!"
+}

@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0025",
+  "agent_id": "AGENT_829",
+  "customer_id": "CUST_3034",
+  "language": "en",
+  "start_time": "2025-08-03T19:48:01",
+  "duration_seconds": 468,
+  "transcript": "Agent: Hi there! Thank you for calling Tech Solutions. This is Sarah. How can I assist you today?\n\nCustomer: Hi Sarah, I\u2019m having issues with my billing. My last charge was higher than expected.\n\nAgent: I\u2019m sorry to hear that! Let me take a look at your account. Can I have your email address or account number, please?\n\nCustomer: Sure, it\u2019s john.doe@email.com. \n\nAgent: Thanks, John. I see that you\u2019re on the Basic plan. It appears there was an extra service added last month. Would you like me to help you remove it?\n\nCustomer: Yes, please! I didn\u2019t authorize that extra service. \n\nAgent: I understand, and I\u2019ll take care of that for you. Just to confirm, would you like me to process a refund for that extra charge as well?\n\nCustomer: Yes, a refund would be great. I was really confused when I saw that. \n\nAgent: Absolutely. I\u2019ll process the refund for you right now. It should reflect in your account within 3-5 business days.\n\nCustomer: Thank you! Also, while I have you, can you tell me about the features in the Pro plan?\n\nAgent: Sure! The Pro plan includes advanced analytics, priority customer support, and customizable features. It\u2019s perfect for businesses looking to scale. \n\nCustomer: That sounds interesting. How much is it?\n\nAgent: The Pro plan is $49.99 per month. If you upgrade now, I can offer you the first month at 20% off.\n\nCustomer: Hmm, I\u2019ll think about it. I just need to make sure it fits our budget.\n\nAgent: Absolutely, take your time. If you have any questions, feel free to reach out. \n\nCustomer: Thanks for the help today, Sarah. I appreciate it.\n\nAgent: You\u2019re welcome, John! I'm glad I could assist. Have a great day!"
+}

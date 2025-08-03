@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0133",
+  "agent_id": "AGENT_101",
+  "customer_id": "CUST_5946",
+  "language": "en",
+  "start_time": "2025-07-19T19:31:07",
+  "duration_seconds": 207,
+  "transcript": "**Agent:** Good afternoon! Thank you for calling TechSolutions. This is Alex speaking. How can I assist you today?\n\n**Customer:** Hi, Alex. I\u2019m having trouble accessing my account. It keeps saying my password is incorrect, even though I know I\u2019ve got it right.\n\n**Agent:** I\u2019m sorry to hear that, and I can definitely help you with that. Have you tried using the \"Forgot Password\" option to reset it?\n\n**Customer:** I did, but I never received the email to reset it. I checked my spam folder, too!\n\n**Agent:** That sounds frustrating. Let me verify the email address on your account. Could you provide me with the email you used to sign up?\n\n**Customer:** Sure, it\u2019s john.doe@email.com.\n\n**Agent:** Thank you, John. I see your email address here. I\u2019ll send a password reset link right away. Can you hold for just a moment?\n\n**Customer:** Sure, no problem.\n\n**Agent:** I\u2019ve sent the reset email. Please check your inbox now and let me know if you received it.\n\n**Customer:** Okay, I got it! I\u2019ll reset my password now. Thanks! \n\n**Agent:** You\u2019re welcome! Is there anything else I can help you with today, like information on our Pro plan features?\n\n**Customer:** I\u2019m actually interested in that! What benefits does the Pro plan offer compared to the Basic one?\n\n**Agent:** The Pro plan includes advanced analytics, priority support, and additional integrations. It\u2019s great for businesses looking to scale.\n\n**Customer:** That sounds useful. I\u2019ll think about it. But I really appreciate your help today!\n\n**Agent:** My pleasure, John! If you have any other questions or need assistance, feel free to reach out. Have a great day! \n\n**Customer:** You too, Alex. Thanks again!"
+}

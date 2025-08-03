@@ -1,5 +1,5 @@
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy import Column, Integer, String, Text, DateTime, Index, func
+from sqlalchemy import Column, Integer, String, Float, Text, DateTime, Index, func
 from sqlalchemy.dialects.postgresql import TSVECTOR
 
 Base = declarative_base()
@@ -21,3 +21,12 @@ class CallTranscript(Base):
         # Index on tsvector column using GIN
         Index('ix_transcripts_transcript_tsv', 'transcript_tsv', postgresql_using='gin'),
     )
+
+class CallInsight(Base):
+    __tablename__ = "call_insights"
+
+    id = Column(Integer, primary_key=True, index=True, autoincrement=True)
+    call_id = Column(String, unique=True, nullable=False)
+    agent_talk_ratio = Column(Float)
+    customer_sentiment_score = Column(Float)
+    embedding = Column(Text)

@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0088",
+  "agent_id": "AGENT_925",
+  "customer_id": "CUST_7864",
+  "language": "en",
+  "start_time": "2025-07-14T23:02:57",
+  "duration_seconds": 359,
+  "transcript": "**Agent:** Thank you for calling Tech Solutions! This is Sarah. How can I assist you today?\n\n**Customer:** Hi Sarah, I\u2019m having some issues with my billing. I was charged twice this month.\n\n**Agent:** I\u2019m sorry to hear that! Let\u2019s get that sorted out. Can you please provide me with your account email?\n\n**Customer:** Sure, it\u2019s john.doe@example.com.\n\n**Agent:** Thank you, John. I\u2019ll take a look at your billing history. One moment, please. \n\n**Customer:** No problem. I just want to make sure I\u2019m not being overcharged.\n\n**Agent:** I understand your concern. I see that a recent charge was processed on both the 1st and the 15th. It seems there was an error during your last renewal. \n\n**Customer:** That\u2019s frustrating! I didn\u2019t intend to sign up for anything else. \n\n**Agent:** I completely understand. What I can do is issue a refund for the duplicate charge immediately. Would that work for you?\n\n**Customer:** Yes, that would be great! But what about my subscription? Is anything changing?\n\n**Agent:** Your subscription will remain as is on the Pro plan, which includes all the features you're currently using. Would you be interested in exploring our new Business plan? It offers enhanced analytics.\n\n**Customer:** I appreciate the offer, but I think I\u2019ll stick with the Pro plan for now. \n\n**Agent:** Absolutely, I respect your decision. I\u2019ll process that refund right away. You\u2019ll receive a confirmation email shortly.\n\n**Customer:** Thanks, Sarah! I really appreciate your help today.\n\n**Agent:** You\u2019re welcome, John! Thank you for your understanding. If you have any more questions, feel free to reach out. Have a great day! \n\n**Customer:** You too! Goodbye!"
+}

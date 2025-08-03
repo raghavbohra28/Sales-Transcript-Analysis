@@ -3,7 +3,8 @@ from app.models import Base, CallTranscript
 from sqlalchemy.sql import text
 from fastapi import FastAPI
 import asyncio
-from app.ingest.llm_transcript_ingestion import main  # Import the main async function
+from app.ingest.llm_transcript_ingestion import main 
+from app.api import routes_calls, routes_analytics
 
 app = FastAPI()
 
@@ -13,15 +14,24 @@ async def read_root():
 
 @app.post("/ingest-transcripts")
 async def ingest_transcripts():
-    await main()  # Call the ingestion process
+    await main()
     return {"status": "success", "message": "Transcript ingestion completed."}
 
+from app.insights.generate_insights import compute_and_store_insights
+
+@app.post("/compute-insights")
+async def compute_insights():
+    compute_and_store_insights()
+    return {"status": "success", "message": "Call insights generated."}
+
+app.include_router(routes_calls.router)
+app.include_router(routes_analytics.router)
+
+
 def create_tables():
-    # Create all tables (safe: won't overwrite existing ones)
     Base.metadata.create_all(bind=engine)
 
 def setup_tsvector_trigger():
-    # Setup full-text search trigger for transcript_tsv column
     with engine.connect() as conn:
         conn.execute(text("""
             CREATE OR REPLACE FUNCTION transcripts_tsvector_trigger() RETURNS trigger AS $$

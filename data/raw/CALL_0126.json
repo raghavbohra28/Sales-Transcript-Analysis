@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0126",
+  "agent_id": "AGENT_484",
+  "customer_id": "CUST_4754",
+  "language": "en",
+  "start_time": "2025-07-22T12:12:35",
+  "duration_seconds": 315,
+  "transcript": "**Agent:** Thank you for calling TechSolutions, this is Sarah speaking. How can I assist you today?\n\n**Customer:** Hi Sarah, I'm having trouble logging into my account. I keep getting a password error.\n\n**Agent:** I'm sorry to hear that! Let's get you logged in. Can I have your email address associated with the account, please?\n\n**Customer:** It\u2019s john.doe@example.com. \n\n**Agent:** Thank you, John. I'll send you a password reset link to that email. Can you check if you received it?\n\n**Customer:** I see the email, but the link isn't working! This is really frustrating.\n\n**Agent:** I understand how that can be annoying, and I apologize for the inconvenience. Let me guide you through a manual reset. Could you please confirm if you\u2019re clicking on the link directly from the email?\n\n**Customer:** Yes, I am. But it just takes me to a 404 error page.\n\n**Agent:** That\u2019s definitely not ideal. I\u2019ll escalate this issue to our tech team right away. Meanwhile, I can reset your password myself if you\u2019d like?\n\n**Customer:** Yes, please! That would be great.\n\n**Agent:** Sure! I\u2019ll reset it to a temporary password and send that to your email. What would you prefer for your new password?\n\n**Customer:** Just make it something simple for now, like \u2018Temp1234\u2019.\n\n**Agent:** Done! You should be receiving that temporary password shortly. Once you log in, you can change it to something more secure.\n\n**Customer:** Thank you so much, Sarah. I really appreciate your help today!\n\n**Agent:** You\u2019re very welcome, John! If you need any further assistance or have questions about our Pro plan, feel free to ask. Have a great day!\n\n**Customer:** Will do! Thanks again."
+}

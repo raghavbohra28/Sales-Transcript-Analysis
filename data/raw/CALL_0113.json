@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0113",
+  "agent_id": "AGENT_390",
+  "customer_id": "CUST_2680",
+  "language": "en",
+  "start_time": "2025-07-12T08:39:53",
+  "duration_seconds": 68,
+  "transcript": "**Agent:** Thank you for calling Streamline Solutions! This is Alex. How can I assist you today?\n\n**Customer:** Hi, Alex. I\u2019m having issues with billing. I was charged incorrectly this month.\n\n**Agent:** I\u2019m sorry to hear that. Can you please provide me with your account email so I can look into this for you?\n\n**Customer:** Sure, it\u2019s jane.doe@example.com. I was switched to the Pro plan, but I was still charged for the Basic plan.\n\n**Agent:** Thank you, Jane. Let me pull up your account details. Just a moment... Okay, I see the issue. It looks like there was a billing error during the transition to the Pro plan.\n\n**Customer:** That's frustrating. How quickly can this be fixed? \n\n**Agent:** I completely understand. I can initiate a refund for the difference today, and it should reflect in your account within 3-5 business days.\n\n**Customer:** I appreciate that. Can you confirm which features I have access to now that I\u2019m on the Pro plan?\n\n**Agent:** Absolutely! With the Pro plan, you have access to advanced analytics, priority support, and the collaboration tools. Are you finding those beneficial?\n\n**Customer:** Yes, they\u2019re great! But I was hoping to utilize the custom reporting feature more effectively.\n\n**Agent:** That\u2019s a fantastic feature! I can set up a quick tutorial session for you if you\u2019d like to ensure you\u2019re getting the most out of it.\n\n**Customer:** That sounds perfect. Thank you!\n\n**Agent:** You're welcome! I\u2019ll send you an email with the tutorial schedule. Is there anything else I can assist you with today?\n\n**Customer:** No, that\u2019s all. Thanks for your help, Alex!\n\n**Agent:** My pleasure, Jane! Thank you for calling Streamline Solutions. Have a wonderful day!"
+}

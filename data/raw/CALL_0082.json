@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0082",
+  "agent_id": "AGENT_732",
+  "customer_id": "CUST_6806",
+  "language": "en",
+  "start_time": "2025-07-13T23:59:35",
+  "duration_seconds": 453,
+  "transcript": "Customer: Hi, I\u2019m having some trouble with my subscription. I think I've been charged incorrectly.\n\nAgent: I'm sorry to hear that. Could you please provide me with your account email and a brief description of the charge you're concerned about?\n\nCustomer: Sure, it\u2019s janedoe@email.com. I was charged for the Pro plan, but I only signed up for the Basic plan last month.\n\nAgent: Thank you, Jane. Let me pull up your account. It looks like there was indeed an error during the billing cycle. \n\nCustomer: I thought so! I can't afford to pay for the Pro plan right now.\n\nAgent: I understand completely. I\u2019ll initiate a refund for the extra charge, and we can confirm that your account is set to the Basic plan.\n\nCustomer: That would be great! How long will the refund take?\n\nAgent: Refunds typically take about 3\u20135 business days to process. You\u2019ll receive a confirmation email once it\u2019s been initiated.\n\nCustomer: Okay, thank you for that. I appreciate the quick response.\n\nAgent: No problem at all! Also, since you're on the Basic plan, I wanted to mention that upgrading to the Pro plan comes with some great new features, like enhanced analytics.\n\nCustomer: I don\u2019t think I\u2019m ready to upgrade right now. I just want to sort this out first.\n\nAgent: Absolutely! Your satisfaction is the priority. If you need those Pro features in the future, feel free to reach out, and I can assist with that.\n\nCustomer: For sure. Thanks for your help today.\n\nAgent: You\u2019re welcome, Jane! If you have any more questions, don\u2019t hesitate to call back. Have a great day! \n\nCustomer: You too! Goodbye. \n\nAgent: Goodbye!"
+}

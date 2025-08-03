@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0154",
+  "agent_id": "AGENT_935",
+  "customer_id": "CUST_5274",
+  "language": "en",
+  "start_time": "2025-07-31T15:54:34",
+  "duration_seconds": 566,
+  "transcript": "**Agent:** Thank you for calling Tech Solutions! This is Sarah speaking. How can I assist you today?\n\n**Customer:** Hi Sarah, I\u2019m calling because I\u2019m having trouble logging into my account. I keep getting an error message.\n\n**Agent:** I\u2019m sorry to hear that you're having trouble! Can you please tell me what the error message says?\n\n**Customer:** It says, \u201cInvalid password.\u201d I\u2019m pretty sure I'm entering the right one.\n\n**Agent:** It\u2019s frustrating when that happens. How about we reset your password? I can send you a link to your email.\n\n**Customer:** Yes, please! But I just want to know why this could have happened in the first place.\n\n**Agent:** It could be due to a system update or just a browser cache issue. We recommend clearing your cache regularly. \n\n**Customer:** Okay, I\u2019ll keep that in mind. I just reset my password. Now, can you tell me about the differences in your plans? \n\n**Agent:** Certainly! We have the Basic, Plus, and Pro plans. The Pro plan offers advanced analytics and priority support. Is there a specific feature you\u2019re looking for?\n\n**Customer:** I\u2019m interested in more data storage and collaborative tools for my team. \n\n**Agent:** Then the Pro plan would be a great fit! It includes 100GB of storage and team collaboration features. \n\n**Customer:** Sounds good! What\u2019s the billing cycle for that plan?\n\n**Agent:** It\u2019s billed monthly at $29.99, but if you choose the annual plan, you save 15%. \n\n**Customer:** That\u2019s something to consider. I\u2019ll think it over. Thanks for your help today!\n\n**Agent:** You\u2019re welcome! If you have any more questions or decide to upgrade, feel free to call us back. Have a great day!"
+}

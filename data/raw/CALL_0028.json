@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0028",
+  "agent_id": "AGENT_363",
+  "customer_id": "CUST_4836",
+  "language": "en",
+  "start_time": "2025-07-26T20:46:03",
+  "duration_seconds": 374,
+  "transcript": "**Agent:** Thank you for calling Tech Solutions! This is Sarah. How can I assist you today?\n\n**Customer:** Hi Sarah, this is Mike. I\u2019m having some serious issues with my billing this month.\n\n**Agent:** I\u2019m sorry to hear that, Mike. Can you tell me more about the issue you\u2019re experiencing?\n\n**Customer:** Well, I was charged for the Pro plan, but I signed up for the Basic plan. It\u2019s quite a difference in price!\n\n**Agent:** I completely understand your frustration. Let me pull up your account details to see what happened. Could you please confirm the email associated with your account?\n\n**Customer:** Sure, it\u2019s mike.jones@email.com.\n\n**Agent:** Thanks, Mike. Just a moment while I check...\n\n**Customer:** No problem. \n\n**Agent:** Alright, I see the issue. It looks like there was a billing error that resulted in the Pro plan charge. I\u2019ll issue a refund for the difference right away.\n\n**Customer:** Great, thanks for sorting that out! But I\u2019d like to ensure this doesn\u2019t happen again.\n\n**Agent:** Absolutely, I can help set up alerts for future billing cycles so you\u2019re notified in advance. Would that work for you?\n\n**Customer:** Yes, that sounds good. Oh, and while I have you, are there any new features coming to the Basic plan?\n\n**Agent:** Yes, we\u2019re actually rolling out a new analytics dashboard for Basic users next month. It\u2019ll be a fantastic tool for tracking your usage!\n\n**Customer:** Awesome! I\u2019d love to try that out. Thanks for the help today, Sarah.\n\n**Agent:** You\u2019re welcome, Mike! I\u2019ll get that refund processed and set up the billing alerts for you. Have a great day!\n\n**Customer:** You too! Goodbye."
+}

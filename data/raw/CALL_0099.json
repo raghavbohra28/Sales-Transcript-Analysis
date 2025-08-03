@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0099",
+  "agent_id": "AGENT_365",
+  "customer_id": "CUST_2161",
+  "language": "en",
+  "start_time": "2025-08-03T07:19:32",
+  "duration_seconds": 326,
+  "transcript": "Agent: Thank you for calling TechWave Solutions, this is Sarah. How can I assist you today?\n\nCustomer: Hi Sarah, I'm having some trouble with my billing. I noticed an unexpected charge this month.\n\nAgent: I\u2019m sorry to hear that! I\u2019d be happy to help you clarify that charge. Can you provide me with your account email?\n\nCustomer: Sure, it's john.smith@example.com. \n\nAgent: Thank you, John. Let me pull up your account... Okay, I see the charge you\u2019re referring to. It appears to be from an automatic renewal for the Pro plan. \n\nCustomer: Oh, I didn't realize I had opted for that. I thought I was still on the Basic plan. Can I switch back?\n\nAgent: Absolutely! We can downgrade your plan back to Basic. Just to confirm, would you like to proceed with that?\n\nCustomer: Yes, please! And can you also clarify what features I\u2019ll be missing?\n\nAgent: Of course! The Basic plan doesn\u2019t include advanced analytics and priority support. Would you like to review other features, or do you feel comfortable with that?\n\nCustomer: I think I\u2019ll be okay with the Basic features for now. But I might consider upgrading again in the future.\n\nAgent: That sounds great! I\u2019ll process the downgrade for you and send a confirmation email. Is there anything else I can help you with today?\n\nCustomer: No, that covers it. Thank you for your quick help, Sarah!\n\nAgent: You\u2019re very welcome, John! Keep an eye on your inbox for that confirmation. Have a great day!\n\nCustomer: You too! Goodbye!\n\nAgent: Goodbye!"
+}

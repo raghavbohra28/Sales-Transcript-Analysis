@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0038",
+  "agent_id": "AGENT_570",
+  "customer_id": "CUST_9204",
+  "language": "en",
+  "start_time": "2025-07-21T09:04:59",
+  "duration_seconds": 108,
+  "transcript": "**Agent:** Hi there! Thank you for calling TechSolutions. This is Lisa. How can I assist you today?\n\n**Customer:** Hi, Lisa. I\u2019m having trouble logging into my account. I keep getting locked out.\n\n**Agent:** I\u2019m sorry to hear that! Can I have your email address to look into your account?\n\n**Customer:** Sure, it\u2019s janedoe@example.com. I\u2019ve tried resetting my password, but it still doesn\u2019t work.\n\n**Agent:** Thank you, Jane. Let me check your account. It looks like there was a recent security update. I can send you a temporary password to regain access.\n\n**Customer:** That would be great, thanks! I really need to access the reports for my team.\n\n**Agent:** No problem! I\u2019ll send that temporary password to your email now. Also, while I have you on the line, have you considered upgrading to our Pro Plan? It includes advanced reporting features.\n\n**Customer:** I\u2019m not really interested in upgrading right now. I just want to get back into my account!\n\n**Agent:** I completely understand. Your temporary password will be in your inbox shortly. Once you\u2019re logged back in, feel free to explore the upgrade options later.\n\n**Customer:** Okay, I\u2019ll do that. By the way, can I expect the password in the next few minutes?\n\n**Agent:** Yes, it should arrive within a couple of minutes. If you don\u2019t see it, please check your spam folder.\n\n**Customer:** Got it! I really appreciate your help today, Lisa.\n\n**Agent:** You\u2019re welcome, Jane! I\u2019m glad I could assist you. If you have any more questions later, don\u2019t hesitate to call us.\n\n**Customer:** Will do! Thanks again. Have a great day!\n\n**Agent:** You too, Jane! Take care."
+}

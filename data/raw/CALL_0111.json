@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0111",
+  "agent_id": "AGENT_179",
+  "customer_id": "CUST_8904",
+  "language": "en",
+  "start_time": "2025-07-06T07:55:21",
+  "duration_seconds": 513,
+  "transcript": "**Agent:** Thank you for calling TechSolutions Support. My name is Mark. How can I assist you today?  \n\n**Customer:** Hi Mark, I\u2019m having trouble accessing my account. I keep getting an error saying \u201cPassword Incorrect.\u201d  \n\n**Agent:** I\u2019m sorry to hear that! Let\u2019s get that sorted out. Have you tried the password reset option on the login portal?  \n\n**Customer:** Yes, but I haven\u2019t received the reset email. It\u2019s been over 30 minutes.  \n\n**Agent:** I understand that can be frustrating. Could you please confirm the email address associated with your account?  \n\n**Customer:** Sure, it\u2019s customer@example.com.  \n\n**Agent:** Thank you! Let me check that for you. \u2026 It looks like there was a temporary issue with our email server. I\u2019ll resend the password reset email right now.  \n\n**Customer:** That\u2019s great, thank you! How long should that take?  \n\n**Agent:** It should arrive within a few minutes. Please check your spam folder as well, just in case.  \n\n**Customer:** Alright, I\u2019ll do that. By the way, I\u2019ve been considering upgrading to the Pro plan. Any additional features I should know about?  \n\n**Agent:** Absolutely! The Pro plan includes advanced analytics, priority support, and collaboration tools. It can really enhance your experience.  \n\n**Customer:** Sounds interesting! I might give it a try once I regain access.  \n\n**Agent:** That\u2019s a great decision! If you need help with the upgrade later, just give us a call.  \n\n**Customer:** Will do! Thank you for your help today, Mark.  \n\n**Agent:** You\u2019re welcome! I hope you get the reset email shortly. Have a great day!  \n\n**Customer:** Thanks, you too!"
+}

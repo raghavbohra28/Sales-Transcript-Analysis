@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0108",
+  "agent_id": "AGENT_902",
+  "customer_id": "CUST_1221",
+  "language": "en",
+  "start_time": "2025-07-17T09:48:28",
+  "duration_seconds": 379,
+  "transcript": "Agent: Good afternoon! Thank you for calling TechSolutions. This is Sarah speaking. How can I assist you today?\n\nCustomer: Hi Sarah, I\u2019m having trouble with my billing. I was charged twice this month for my Pro plan.\n\nAgent: I\u2019m sorry to hear that, and I can certainly help you with that! Could you please confirm the email address associated with your account?\n\nCustomer: Sure, it\u2019s john.doe@email.com. \n\nAgent: Thank you, John. Let me pull up your account. I see the double charge. It appears to be a billing system error. I apologize for the inconvenience.\n\nCustomer: That\u2019s frustrating. Will I get a refund for the extra charge?\n\nAgent: Absolutely, I can initiate that refund for you right now. It should reflect in your account within 3-5 business days.\n\nCustomer: Okay, that\u2019s good to know. But I also wanted to ask if there are any new features coming to the Pro plan soon?\n\nAgent: Yes! We're actually rolling out a new analytics dashboard next month. It\u2019ll give you deeper insights into your usage statistics.\n\nCustomer: That sounds great! Is there any additional cost for that feature?\n\nAgent: Not at all! It will be included in your current Pro plan at no additional charge.\n\nCustomer: Awesome! I really appreciate your help today, Sarah.\n\nAgent: It\u2019s my pleasure, John! Just to confirm, I\u2019ll process your refund and look out for the analytics dashboard next month.\n\nCustomer: Perfect. Thanks again for your assistance!\n\nAgent: You're very welcome! If you have any other questions, feel free to reach out. Have a great day!\n\nCustomer: You too, bye! \n\nAgent: Goodbye!"
+}

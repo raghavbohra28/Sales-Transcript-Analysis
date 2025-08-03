@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0144",
+  "agent_id": "AGENT_276",
+  "customer_id": "CUST_6805",
+  "language": "en",
+  "start_time": "2025-07-09T03:18:54",
+  "duration_seconds": 245,
+  "transcript": "**Agent:** Thank you for calling TechSaaS Support! This is Mark speaking. How can I assist you today?\n\n**Customer:** Hi Mark, this is Lisa. I\u2019m having issues with my billing statement. It\u2019s showing a charge I don\u2019t recognize.\n\n**Agent:** I\u2019m sorry to hear that, Lisa. Let\u2019s get to the bottom of that. Could you please provide me with the email associated with your account?\n\n**Customer:** Sure, it\u2019s lisa@example.com. But I can\u2019t believe I'm being charged extra this month!\n\n**Agent:** Thank you for that. Let me pull up your account. It appears you were upgraded to the Pro plan last month. Was this intentional?\n\n**Customer:** No, I never requested that! I still want the Basic plan, not this Pro one.\n\n**Agent:** I understand, Lisa. We can certainly revert you back to the Basic plan. I\u2019ll take care of that immediately. \n\n**Customer:** Great! And I\u2019d also like a refund for the extra charge since it wasn\u2019t my decision.\n\n**Agent:** I can help with that too! I\u2019ll process a refund for the last month\u2019s overcharge right away. You\u2019ll see the credit back in your account within 3-5 business days.\n\n**Customer:** Thank you, Mark. I appreciate your quick response. It\u2019s just frustrating when these things happen.\n\n**Agent:** I completely understand, Lisa! We value your business, and it\u2019s our goal to keep things smooth for you. Is there anything else I can assist you with today?\n\n**Customer:** No, that\u2019s everything for now. Just hope this doesn\u2019t happen again!\n\n**Agent:** Absolutely, I\u2019ll make a note in your account to prevent any future confusion. Thanks for your patience, Lisa! Have a wonderful day!\n\n**Customer:** You too, Mark! Thanks for your help!"
+}

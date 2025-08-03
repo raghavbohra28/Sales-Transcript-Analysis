@@ -1,0 +1,9 @@
+{
+  "call_id": "CALL_0060",
+  "agent_id": "AGENT_841",
+  "customer_id": "CUST_2099",
+  "language": "en",
+  "start_time": "2025-07-19T01:42:55",
+  "duration_seconds": 284,
+  "transcript": "**Customer:** Hi, I\u2019m calling because I noticed an unexpected charge on my last bill. \n\n**Agent:** I\u2019m sorry to hear that! I\u2019d be happy to help you with this. Can you provide me with your account email or the last four digits of your payment method for verification?\n\n**Customer:** Sure, my email is john.doe@email.com. \n\n**Agent:** Thank you, John. I see your account here. The charge appears to be for our Pro plan, which automatically renewed on your last billing cycle. Is that the plan you intended to keep?\n\n**Customer:** Actually, I thought I\u2019d downgraded to the Basic plan a few weeks ago. \n\n**Agent:** I understand your frustration. Let me check the records for that downgrade. One moment, please. \n\n**Customer:** Alright, thanks.\n\n**Agent:** It looks like the downgrade request didn\u2019t go through. Would you like me to help you process that change now?\n\n**Customer:** Yes, please! I don\u2019t need the extra features just yet. \n\n**Agent:** Absolutely, I\u2019ll switch you to the Basic plan right now. Just to confirm, the new pricing will take effect on your next billing cycle.\n\n**Customer:** Okay, I appreciate that. \n\n**Agent:** Is there anything else you\u2019d like assistance with today? Perhaps some features of the Basic plan?\n\n**Customer:** No, that\u2019s everything for now. Just the billing issue resolved. \n\n**Agent:** Great! I\u2019ll make sure this adjustment reflects on your account. Thank you for calling, John, and for your patience today. \n\n**Customer:** Thank you for your help! Have a good day. \n\n**Agent:** You too, have a wonderful day!"
+}
