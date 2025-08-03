@@ -30,7 +30,6 @@ A FastAPI-based microservice that simulates, ingests, analyzes, and serves insig
 1. **Clone the repository**:
 ```bash
 git clone https://github.com/raghavbohra28/Sales-Transcript-Analysis.git
-cd sales-call-analytics
 ```
 
 2. **Create and activate virtual environment**:
